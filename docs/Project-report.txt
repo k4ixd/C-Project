@@ -1,0 +1,33 @@
+------------------------------------------------------------
+PROJECT REPORT
+------------------------------------------------------------
+Course Code: CSEG1032
+Course Title: Programming in C
+Project Title: Number Guessing Game
+Student Names: ARYAN
+Roll Numbers: 590025609
+Semester: 1
+------------------------------------------------------------
+
+1. ABSTRACT
+This project implements a number guessing game by using c programming.
+------------------------------------------------------------
+2. OBJECTIVE
+The objective of this project is to apply fundamental and intermediate concepts of the C language to 
+design a working application. 
+------------------------------------------------------------
+4. SYSTEM DESIGN AND ALGORITHM
+The system is modular, consisting of multiple source files:
+-PROJECT.c (it sates us that whether the guessed number is right or wrong)
+
+Algorithm:
+1. Read range from user.
+2. Asks user for guessed number.
+3. checks the guessed number is right or wrong ,the number is in range or too high or low.
+4. congrats on guessing right number.
+5. tells the number of attempts and closes the program.
+------------------------------------------------------------
+5. IMPLEMENTATION DETAILS
+Key Language Features Used:
+conditional statements
+data types and variables
